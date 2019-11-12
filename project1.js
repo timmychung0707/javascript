@@ -10,16 +10,3 @@
 // You're scrolling through the pictures on your phone. 
 // You notice a new one: it's of you sleeping.
 
-var protagonist = "Mr. Dino";
-var antagonist = "Naughty Students";
-var weapon = "sword";
-var victims = 200;
-var setting = "Hsinchu";
-var bestFriend = "the computer";
-
-// Intro
-document.write("Once upon a time, there was a hero. He lived in " + setting + " with his only friend, " + bestFriend + ". He was known as... " + protagonist);
-
-// New Line
-document.write('<br>');
-document.write('<br>');

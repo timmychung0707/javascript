@@ -1,14 +1,11 @@
 // Project 2
 // Create a simple calculator that can add, subtract, multiply, and divide two numbers
 
-// HTML & CSS
-// 1. Create a new HTML document
-// 2. Create a div for your calculator "screen"
-// 3. Make sure each div has a different class so we can select it
-// 4. Create 4 divs for 4 buttons (add, subtract, multiply, divide)
-// 5. Create an HTML element that can display the two numbers we will work with
-// 6. Use CSS to make everything look pretty.
+// 1. Get two values from the user and store them as two numbers
+// 2. Display what the numbers are on the HTML test-area
+// 3. Perform addition, subtraction, multiplication, and division on the numbers
+// 3. Display the sum, difference, product, and quotient of the two numbers
+//     -  For example, your HTML test-area should say something like:
+//          "3 + 7 = 10"
+//          "the sum of 3 and 7 is..."
 
-// JAVASCRIPT
-// 1. You will need to create two variables to store each number
-// 2. You wil need to 
