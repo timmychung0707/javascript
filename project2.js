@@ -4,8 +4,8 @@
 // 1. Get two values from the user and store them as two numbers
 // 2. Display what the numbers are on the HTML test-area
 // 3. Perform addition, subtraction, multiplication, and division on the numbers
-// 3. Display the sum, difference, product, and quotient of the two numbers
+// 4. Display the sum, difference, product, and quotient of the two numbers
 //     -  For example, your HTML test-area should say something like:
 //          "3 + 7 = 10"
 //          "the sum of 3 and 7 is..."
-
+// 5. Compare your two numbers and write which one is greater or less than the other.
