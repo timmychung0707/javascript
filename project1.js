@@ -2,8 +2,8 @@
 // Write a story that uses variables
 // 1. Use document.write(); to write your story onto the HTML page
 // 2. Make your story exciting
-// 3. Join the variables into your story
-// 4. Edit the variables so that your story is changeable
+// 3. Join the variables into your story using concatenation
+// 4. Use prompts to retrieve a value for your variables
 // 5. Use 5 or more variables in your story
 
 // Story Prompt:
