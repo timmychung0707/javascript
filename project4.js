@@ -1,12 +1,14 @@
-
 /*
-You are creating an online calculator that can add, subtract, multiply, and divide two numbers
-You will need to use your HTML and CSS skills to build a nice looking calculator
+You will create a scoreboard that allows the user to add and remove points
 
-1. Your calculator must show the numbers being operated on
-2. You will need to create a button for each operation
-3. Have a display area where you will display the answer
-4. CHALLENGE: When dividing, display the answer as a whole number quotient with remainder (no decimals)
+1. You will need variables to store the points
+2. When a user clicks on the add button, you will need to add to the variable, and then display it in HTML
+3. When a user clicks the subtract button, you will need to subtract from the variable, and then display it in HTML
+4. Use CSS Grids to build your scoreboard layout
+
+CHALLENGE:
+- Create a reset button that resets both scores
+- Make it so your scoreboard cannot go below 0 points
 
 GOOD LUCK 🤹‍♂️
 */
