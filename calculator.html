@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Caculator</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Fira+Code|Ubuntu+Mono|VT323&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    <div class="container">
+    <div class="title">caculator</div>
+    <div class="test-area">
+
+    <!--Button-->
+    <div class="gridbox">
+        <input type="button" value="+" onclick="addNum()"class="grid-item item3" >
+        <div class="answer-display"></div>
+        <input type="button" value="-" onclick="subtractNum()"class="grid-item item4" >
+        <div class="answer-display2"></div>
+        <input type="button" value="*" onclick="multiplyNum()"class="grid-item item5">
+        <div class="answer-display3"></div>
+        <input type="button" value="/" onclick="divisionNum()"class="grid-item item6">
+        <div class="answer-display4"></div>
+    </div>
+
+    <!--Input button-->
+
+
+    <div class="input-group">
+    <input class="num-field" type="number">
+    <button onclick="storeNum()"> Enter</button>
+    <div class="num-display"></div>
+
+    <input class="num-field2" type="number">
+    <button onclick="storeNum()"> Enter</button>
+    <div class="num-display2"></div>
+
+
+<!-- Javascript Here -->
+<script src="project5.js"></script>
+
+
+</div>
+
+</body>
+</html>

@@ -1,4 +1,4 @@
-/*
+  /*
 You will create a scoreboard that allows the user to add and remove points
 
 1. You will need variables to store the points
