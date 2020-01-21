@@ -14,7 +14,7 @@ You will need to create 4 loops for this challenge
 
 
 CHALLENGE:
-4. Dino is a very neat and organized dinosaur. He likes to stack the bones (🦴) of his victims in a nice pyramid shape. Create a stack that is 7 bones high.
+5. Dino is a very neat and organized dinosaur. He likes to stack the bones (🦴) of his victims in a nice pyramid shape. Create a stack that is 7 bones high.
 
 - You will need to create a loop writes 1 🦴, and every successive line adds one more bone. It should look like this: 
 

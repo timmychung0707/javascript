@@ -2,13 +2,13 @@
 // https://www.w3schools.com/js/js_comparisons.asp
 
 // 2 different data types, but same values
-if (12 !== '12') {
-    // run this code   
-    document.write("true!");
-} else {
-    // run this code
-    document.write("error");
-}
+// if (12 !== '12') {
+//     // run this code   
+//     document.write("true!");
+// } else {
+//     // run this code
+//     document.write("error");
+// }
 
 // == compares ONLY the values
 // === compare BOTH the value and the data type
@@ -20,3 +20,20 @@ if (12 !== '12') {
 // Think of them as words you type
 
 // a NUMBER is a integer
+
+// && means AND
+// || means OR
+
+// if (x == 3 && y == 3) {
+
+// } else {
+
+// }
+
+/*
+
+Don't
+Repeat
+Yourself
+
+*/
